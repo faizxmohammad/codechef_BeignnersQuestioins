@@ -8,7 +8,7 @@ import java.util.Scanner;
         
         Scanner scn = new Scanner(System.in);
         N = scn.nextLong();
-        for( int i = 1; i<=N ; i++){
+        for( int i = 1; i <= N ; i++){
             SUM += i;
         
         }
